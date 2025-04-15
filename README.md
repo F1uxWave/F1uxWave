@@ -46,10 +46,11 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F1uxWave&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1uxWave&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="420" />
 </div>
+
 
 ---
 
